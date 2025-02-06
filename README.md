@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ethereumNetwork & smartContracts. Also Animation on the side;
 - 💞️ I’m looking to collaborate on biulding a Pinterest like decentralized socialMediasystem using smartContracts & ETHER Tokens in Ethereum;
 - 📫 How to reach me email:zuberiali27@gmail.com || what'sapp: +254114299030;
-- 😄 Pronouns: Ali;
+- 😄 Pronouns: He;
 - ⚡ Fun fact: I once spent 16hrs just drawing;
 
 <!---
